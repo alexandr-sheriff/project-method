@@ -1,0 +1,1 @@
+INSERT INTO project_method.project (project_id, project_description, project_goals, project_image, project_name, project_status, project_tasks, project_lead_user_id) VALUES (1, 'saasasaasasaasasaasasaasasaasa', 'saasasaasasaasasaasasaasasaasa', 'abf16adc-41c0-46b4-9bb1-2fcaa52d7b88.project_method.png', 'saasa', '_1_BACKLOG', 'saasasaasasaasasaasasaasasaasa', 2);

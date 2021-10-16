@@ -1,0 +1,1 @@
+INSERT INTO project_method.team_users (fk_team_id, fk_user_id) VALUES (1, 3);
